@@ -1,0 +1,5 @@
+<apex:page standardController="Case" extensions="NrtListController">
+	<apex:param name="caseID" value="{!Case.id}"/>
+	Standard CaseID: {!Case.id}
+	Extension CaseID: {!CaseNrt}
+</apex:page>

@@ -1,0 +1,1207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is"
+			],
+			[
+				"Publi",
+				"Public_Group_ID__c"
+			],
+			[
+				"def",
+				"defaultSetting"
+			],
+			[
+				"Name",
+				"Name__c"
+			],
+			[
+				"re",
+				"PUBLIC resourcePoolGroup\tGroup"
+			],
+			[
+				"conta",
+				"contains"
+			],
+			[
+				"Time",
+				"TimeTrade_Group__c\t[Sobject Name]"
+			],
+			[
+				"Na",
+				"name__c"
+			],
+			[
+				"or",
+				"organizer"
+			],
+			[
+				"Crea",
+				"CreatedBy"
+			],
+			[
+				"Owner",
+				"OwnerId"
+			],
+			[
+				"Acc",
+				"Account"
+			],
+			[
+				"Sobj",
+				"sobjecttype"
+			],
+			[
+				"Person_",
+				"Person_account__c"
+			],
+			[
+				"A",
+				"Account"
+			],
+			[
+				"Pe",
+				"Person_account__c"
+			],
+			[
+				"Pers",
+				"Person_Account__c"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"goto",
+				"gotomeeting"
+			],
+			[
+				"Get",
+				"GetAccessToken"
+			],
+			[
+				"gO",
+				"GoToMeeting"
+			],
+			[
+				"IN",
+				"Insert"
+			],
+			[
+				"set",
+				"setUserIds"
+			],
+			[
+				"get",
+				"getAccsUnderUltParent"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ca",
+				"calculateComboAmounts"
+			],
+			[
+				"Acocu",
+				"Account_Sales_Data__c"
+			],
+			[
+				"Account",
+				"Account_Sales_Data__c"
+			],
+			[
+				"lIST",
+				"List"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"Parent__",
+				"Parent_Account__c"
+			],
+			[
+				"account",
+				"Account__c"
+			],
+			[
+				"Accoun",
+				"Account_Sales_Data__r"
+			],
+			[
+				"id",
+				"Id"
+			],
+			[
+				"acc",
+				"AccountId"
+			],
+			[
+				"accounts",
+				"accountsToUpdate"
+			],
+			[
+				"Ina",
+				"Inactive"
+			],
+			[
+				"Tier",
+				"Tier__c"
+			],
+			[
+				"Curr",
+				"CurrencyIsoCode"
+			],
+			[
+				"D",
+				"Double\t[Standard Apex Class]"
+			],
+			[
+				"Pu",
+				"public"
+			],
+			[
+				"cre",
+				"CreatedDate"
+			],
+			[
+				"CREA",
+				"CreatedDate"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"skill",
+				"skillOptions"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"apex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"package control sett",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control settt",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"uop",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prefe",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/MavensMate/Sahithi Dev Org"
+	],
+	"file_history":
+	[
+		"/D/MavensMate/Time Trade Dev Org/src/classes/LinkaLatorTestMethods.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/WebServiceMockImpl.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/UsersWrapper_Test.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_trg_Event.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_PackageInstallHandler.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_FLSCRUDHelper.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_ExceptionHandler.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Ctrl_testEmail.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Ctrl_TimeTradeAdminPage.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Ctrl_MeetingStatus.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Ctrl_CreateMeetingInviteConLead.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Ctrl_CreateMeetingInvitation.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Ctrl_ClickToSchedule.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Batch_ProvisionGroups.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TestCtrl_CreateMeetingInvitationTemplate.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/pages/CreateTimeTradeInvitationNew.page",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/FLSCRUDHelper.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Ctrl_CreateMeetingInvitation.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/SiteRegisterControllerTest.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/SiteLoginControllerTest.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/MyProfilePageControllerTest.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/MyProfilePageController.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/ForgotPasswordController.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/CreateInvitationActionTest.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/CreateInvitationAction.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/CreateInvitationActionPool.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Ctrl_ClickToSchedule.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Batch_SyncSalesforceCalendar.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Batch_ProvisionGroups.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTApptConfiguration.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTAppointmentWS.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTAppointmentServices.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/objects/Internal_Attendee__c.object",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/kkCtlr_CreateMeetingInvitation.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TimeTradeInvitationTriggerHandler.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/UtilClass.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTExternalCalendarServices.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTExternalCalendarServicesWS.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/SalesforceCalendarSyncHelper.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/GoToMeetingHelper.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/WebExHelper.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Ctrl_TimeTradeAdminPage.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TimeTradeCustomerAttendeeTriggerHandler.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/ZoomHelper.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/triggers/Trg_Event1.trigger",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/AccessJSONGenerator.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/pages/MeetingStatus.page",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/EmailTemplateMergeUtil.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Ctrl_MeetingStatus.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/objects/Activity.object",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTConfigurationServices.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTConfigurationWS.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Test_Ctrl_CreateMeetingInvitation1.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTAuthServices.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTClientServices.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTNewAppointments.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTNewConfigurations.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/TTNewWS.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/customMetadata/CreateInvitationActionDefault.Current_Defaults.md",
+		"/D/MavensMate/Time Trade Dev Org/src/triggers/Trg_TimeTradeInvitation.trigger",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Ctrl_CreateMeetingInvitation.cls-meta.xml",
+		"/D/MavensMate/Time Trade Dev Org/src/pages/ClickToSchedule.page",
+		"/D/MavensMate/Time Trade Dev Org/src/triggers/Trg_TimeTradeCustomerAttendee.trigger",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/Ctrl_CreateMeetingInvitationTemplate.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/testDataDump.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/triggers/Trg_Event.trigger",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/AsyncCallOutHelper.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/triggers/Trg_MeetingInternalAttendees.trigger",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/MeetingInternalAttendeesTriggerHandler.cls",
+		"/D/MavensMate/Time Trade Dev Org/src/classes/JSONGenerator.cls",
+		"/D/MavensMate/Time Trade Packaging/debug/logs/2017-05-17 14-05-25.log",
+		"/D/MavensMate/Time Trade Packaging/debug/logs/2017-05-17 19-42-55.log",
+		"/D/MavensMate/CA DB2/src/classes/TestUtils.cls",
+		"/D/MavensMate/CA DB2/src/classes/Test_AccountHierarchy_Controller.cls",
+		"/D/MavensMate/CA DB2/src/classes/Test_AccountLogic.cls",
+		"/D/MavensMate/CA DB2/src/classes/Test_CaseTriggerLogicClass.cls",
+		"/D/MavensMate/CA DB2/src/classes/AccountHierarchy_Controller.cls",
+		"/D/MavensMate/CA DB2/src/classes/AllRecordtTypeIdClass.cls",
+		"/D/MavensMate/CA DB2/src/pages/VF_AccountHierarchy.page",
+		"/D/MavensMate/CA DB2/src/classes/Ctrl_AccountHierarchy.cls",
+		"/D/MavensMate/CA DB2/src/pages/ExportToExcel_AccountHierarchy.page",
+		"/D/MavensMate/CA DB2/src/classes/Test_Ctrl_AccountHierarchy.cls",
+		"/D/MavensMate/CA DB2/src/classes/AccSalesDataWrapper.cls",
+		"/D/MavensMate/Sterling Sandbox/src/pages/WelcomeHolidayBooking.page",
+		"/D/MavensMate/Sterling Sandbox/src/classes/generateXMLForCRS.cls",
+		"/D/MavensMate/Sterling Sandbox/src/triggers/OtherBookingInventorycheck.trigger",
+		"/D/MavensMate/Sterling Sandbox/src/triggers/Nonmemberinventorycheck.trigger",
+		"/D/MavensMate/Sterling Sandbox/src/classes/keepAlive.cls",
+		"/D/MavensMate/Sterling Sandbox/src/triggers/NonmemberMemberBookedDetails.trigger",
+		"/D/MavensMate/Sterling Sandbox/src/triggers/CreateNonMemberBookingArrivallist.trigger",
+		"/D/MavensMate/Sterling Sandbox/src/triggers/Otherbookeddetails.trigger",
+		"/D/MavensMate/Sterling Sandbox/src/triggers/NonMemberBookingDetailsEdit.trigger",
+		"/D/MavensMate/Sterling Sandbox/src/triggers/HSD_MealPlan_BreakUp.trigger",
+		"/D/MavensMate/Sterling Sandbox/src/classes/WelcomeHolidayBooking.cls",
+		"/D/MavensMate/Sterling Sandbox/config/.symbols/TestOtherBookedDetails.json",
+		"/D/MavensMate/Sterling Sandbox/config/.symbols/WelcomeHolidayBooking.json",
+		"/D/MavensMate/Sterling Sandbox/src/classes/TestBatchToCopyRollupValues.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/TestBatchForCopyingPaymentPlanOldValues.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/BatchForCopyingPaymentPlanOldValues.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/BatchToCopyRollupValues.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/BatchManageIncentiveEntriesForHSD.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/BatchManageIncentiveEntriesForVOSales.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/Test_BatchManageIncentiveEntriesForHSD.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/Handler_BatchManageIncentiveForHSD.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/TestBatchManageIncentive.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/TestBatchManageIncentiveEntries.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/Test_BatchManageIncentivePayoutForCancel.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/Test_HandlerForActual.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/TestBatchForActualValueUpdate.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/AdhocPaymentController.cls",
+		"/D/MavensMate/Sterling Sandbox/src/pages/V2Print_EMI.page",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V3_Sale_Login_RP_HP.cls",
+		"/D/MavensMate/Sterling Sandbox/src/pages/V2_Upgrade_Wizard.page",
+		"/D/MavensMate/Sterling Sandbox/src/components/V2CustomerDetails.component",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V2CustomerDetails.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V2CRCPayDtView.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/Handler_IncentivePayoutCreation.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/HandlerForProductUpgrade.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V2_Pre_Closure.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V2_Payment_Plan_Change.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V2_GlobalPaymentManagement.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/ProductUpgradationController.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V2_EMIHold.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/OI_BatchRunEMIOverdueCount.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/V2StmtOfAccountsEmiPDFExtension.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/HandlerForBatchActualUpdate.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/Test_Handler_IncentivePayoutCreation.cls",
+		"/D/MavensMate/Sterling Sandbox/src/classes/QueryConstructorForActualCalc.cls"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\MavensMate\\Time Trade Dev Org\\src",
+			"D:\\MavensMate\\Time Trade Dev Org\\src\\classes",
+			"D:\\MavensMate\\Time Trade Dev Org\\src",
+			"D:\\MavensMate\\Time Trade Dev Org\\src\\classes",
+			"D:\\MavensMate\\Time Trade Dev Org\\src",
+			"D:\\MavensMate\\Time Trade Dev Org\\src\\classes",
+			"D:\\MavensMate\\Time Trade Dev Org\\src",
+			"D:\\MavensMate\\Time Trade Dev Org\\src\\classes",
+			"D:\\MavensMate\\Time Trade Dev Org\\src",
+			"D:\\MavensMate\\Time Trade Dev Org\\src\\classes",
+			"D:\\MavensMate\\Time Trade Dev Org\\src",
+			"D:\\MavensMate\\Time Trade Dev Org\\src\\classes",
+			"D:\\MavensMate\\CA DB2\\src",
+			"D:\\MavensMate\\Sterling Sandbox",
+			"D:\\MavensMate\\RS Dev Project",
+			"D:\\MavensMate\\RS Dev1",
+			"D:\\MavensMate\\RS Production",
+			"D:\\MavensMate\\RS Production\\src\\pages",
+			"D:\\MavensMate\\RS Production",
+			"D:\\MavensMate\\RS Production\\src\\classes",
+			"D:\\MavensMate\\RS Production"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nameToRecordTypeMap",
+			"MapOfMeetingRTIDToRTName",
+			"'Private'",
+			"Private",
+			"Invitation__c",
+			"ttActivity",
+			"invitation",
+			"recordTypeId",
+			"RecordType",
+			"record_type",
+			"invitation__c",
+			"invitation",
+			"Meeting__c",
+			"meeting",
+			"from time",
+			"default",
+			"defaultTTgroup",
+			"name__c",
+			"name",
+			"name__c",
+			"search",
+			"searchTo",
+			"flatResults",
+			"from lead",
+			"populate",
+			"CheckForREquiredFields",
+			"populateWhoId",
+			"VALIDATEFOR",
+			"populateWhoId",
+			"from lead",
+			"system.de",
+			"defaultList",
+			"pool",
+			"user",
+			"FROM CONTAC",
+			"from lead",
+			"searchTo",
+			"searcht",
+			"custfName",
+			"from lead",
+			"populatewhoid",
+			"from lead",
+			"validateForm",
+			"from lead",
+			"FROM LEAD",
+			"validateForm",
+			"FROM ACCOUNT",
+			"FROM CONTACT",
+			"FROM lead",
+			"FROM Contact",
+			"from contact",
+			"from lead",
+			"FLS_CRUD_CheckModifyRights",
+			"CheckForUpdatePermissions",
+			"CheckForDeletePermissions",
+			"CheckForUpsertPermissions",
+			"insert",
+			"CheckForInsertPermissions",
+			"checkForReadPermissions",
+			"CheckForInsertPermissions",
+			"checkForReadPermissions",
+			"CheckObjectIsUpdateable",
+			"CheckObjectIsInsertable",
+			"CheckForInsertPermissions",
+			"FLSError",
+			"CheckFieldIsReadable",
+			"CheckObjectIsReadable",
+			"checkForReadPermissions",
+			"reqWrap.organizerId",
+			"if(groupIdToTTGroupMap.keySet()!=null&",
+			"groupIdToTTGroupMap",
+			".Group_Name__c",
+			"Group_Name__c",
+			"defaultSetting",
+			"defa",
+			"poolOption",
+			"Pooled_Availability_Type__c",
+			"poolOption",
+			"EventRelation",
+			"attendees",
+			"assignedUsers",
+			"mapOfFailedUserIdsToString",
+			"error",
+			" String successUserString = '';",
+			"successUserString",
+			"ERROR",
+			"secondaryResourceInfo",
+			"appointment",
+			"secondaryResourcePool",
+			"appointment",
+			"System.debug(",
+			"FROM TimeTrade_Group__c",
+			"organizerId",
+			"TimeTrade_Group__c",
+			"defaultSetting",
+			"fetchde",
+			"defaultSetting",
+			"fetchDefaults",
+			"resourcePoolGroup",
+			"primary",
+			"logerr",
+			"resourcePoolGroup",
+			"primary",
+			"primary clieny",
+			"resourcePoolGroup",
+			"checkforread",
+			"nterna",
+			"map",
+			"Internal_Attendee__c",
+			"//changes for Pool",
+			"organizerIdSet",
+			"changes for pool",
+			"//changes for pool",
+			"resourcePoolGroup",
+			"organizerId",
+			"organizer",
+			"organizerMap",
+			"organizerId",
+			"organizer",
+			"who_",
+			"organizerMap",
+			"organizer",
+			"internal",
+			"organizerId",
+			"organizer",
+			"niternal",
+			"Meeting__c",
+			"fetchMeetings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Sahithi Dev Org.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"create",
+				"src\\classes\\CreateInvitationActionTest.cls"
+			],
+			[
+				"createnew",
+				"src\\pages\\CreateTimeTradeInvitationNew.page"
+			],
+			[
+				"ctr",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"test_batch_provisiongroups",
+				"src\\classes\\Test_Batch_ProvisionGroups.cls"
+			],
+			[
+				"link",
+				"src\\classes\\LinkaLatorTestMethods.cls"
+			],
+			[
+				"linka",
+				"src\\classes\\LinkaLatorTestMethods.cls"
+			],
+			[
+				"userwe",
+				"src\\classes\\UsersWrapper_Test.cls"
+			],
+			[
+				"test_trg_event",
+				"src\\classes\\Test_trg_Event.cls"
+			],
+			[
+				"test_packageinstallhandler",
+				"src\\classes\\Test_PackageInstallHandler.cls"
+			],
+			[
+				"test",
+				"src\\classes\\Test_FLSCRUDHelper.cls"
+			],
+			[
+				"test_exceptionhandler",
+				"src\\classes\\Test_ExceptionHandler.cls"
+			],
+			[
+				"test_ctrl_testemail",
+				"src\\classes\\Test_Ctrl_testEmail.cls"
+			],
+			[
+				"test_ctrl_admin",
+				"src\\classes\\Test_Ctrl_TimeTradeAdminPage.cls"
+			],
+			[
+				"test_ctrl_meetingstatus",
+				"src\\classes\\Test_Ctrl_MeetingStatus.cls"
+			],
+			[
+				"test_ctrl_create",
+				"src\\classes\\Test_Ctrl_CreateMeetingInviteConLead.cls"
+			],
+			[
+				"test_ctrl_createmeetinginvitation",
+				"src\\classes\\Test_Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"test_ctrl_clicktoschedule",
+				"src\\classes\\Test_Ctrl_ClickToSchedule.cls"
+			],
+			[
+				"test_batc",
+				"src\\classes\\Test_Batch_ProvisionGroups.cls"
+			],
+			[
+				"testctrl",
+				"src\\classes\\TestCtrl_CreateMeetingInvitationTemplate.cls"
+			],
+			[
+				"siteco",
+				"src\\classes\\SiteRegisterControllerTest.cls"
+			],
+			[
+				"siteregi",
+				"src\\classes\\SiteRegisterControllerTest.cls"
+			],
+			[
+				"sitelogi",
+				"src\\classes\\SiteLoginControllerTest.cls"
+			],
+			[
+				"myprofile",
+				"src\\classes\\MyProfilePageControllerTest.cls"
+			],
+			[
+				"for",
+				"src\\classes\\ForgotPasswordController.cls"
+			],
+			[
+				"test_ctrl_timetradeadminpage",
+				"src\\classes\\Test_Ctrl_TimeTradeAdminPage.cls"
+			],
+			[
+				"flscrudhelper",
+				"src\\classes\\FLSCRUDHelper.cls"
+			],
+			[
+				"ctrl",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"test_crea",
+				"src\\classes\\Test_Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"ctrl_clic",
+				"src\\classes\\Ctrl_ClickToSchedule.cls"
+			],
+			[
+				"ctrl_createmeetinginvitation",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"batch",
+				"src\\classes\\Batch_SyncSalesforceCalendar.cls"
+			],
+			[
+				"bat",
+				"src\\classes\\Batch_ProvisionGroups.cls"
+			],
+			[
+				"test_ctrl_c",
+				"src\\classes\\Test_Ctrl_ClickToSchedule.cls"
+			],
+			[
+				"ttappointmentws",
+				"src\\classes\\TTAppointmentWS.cls"
+			],
+			[
+				"ttappointmentservices",
+				"src\\classes\\TTAppointmentServices.cls"
+			],
+			[
+				"ttapptconfiguration",
+				"src\\classes\\TTApptConfiguration.cls"
+			],
+			[
+				"ctrl_",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"test_ctrl",
+				"src\\classes\\Test_Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"ctrl_click",
+				"src\\classes\\Ctrl_ClickToSchedule.cls"
+			],
+			[
+				"ctrl_create",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"ttexternalcalendarservices",
+				"src\\classes\\TTExternalCalendarServices.cls"
+			],
+			[
+				"externalcalendarws",
+				"src\\classes\\TTExternalCalendarServicesWS.cls"
+			],
+			[
+				"ttexternalcalendarservicesws",
+				"src\\classes\\TTExternalCalendarServicesWS.cls"
+			],
+			[
+				"salesforcecalendarsynchelper",
+				"src\\classes\\SalesforceCalendarSyncHelper.cls"
+			],
+			[
+				"ctrl_time",
+				"src\\classes\\Ctrl_TimeTradeAdminPage.cls"
+			],
+			[
+				"webe",
+				"src\\classes\\WebExHelper.cls"
+			],
+			[
+				"goto",
+				"src\\classes\\GoToMeetingHelper.cls"
+			],
+			[
+				"got",
+				"D:\\MavensMate\\Time Trade Dev Org\\src\\classes\\Ctrl_ClickToSchedule.cls"
+			],
+			[
+				"crea",
+				"src\\classes\\CreateInvitationActionPool.cls"
+			],
+			[
+				"util",
+				"src\\classes\\UtilClass.cls"
+			],
+			[
+				"timetra",
+				"src\\classes\\TimeTradeCustomerAttendeeTriggerHandler.cls"
+			],
+			[
+				"createtimetradeinvitationnew",
+				"src\\pages\\CreateTimeTradeInvitationNew.page"
+			],
+			[
+				"ctrl_clicktoschedule",
+				"src\\classes\\Ctrl_ClickToSchedule.cls"
+			],
+			[
+				"timetradecustomerattendeetriggerhandler",
+				"src\\classes\\TimeTradeCustomerAttendeeTriggerHandler.cls"
+			],
+			[
+				"timetradeinvitationtriggerhandler",
+				"src\\classes\\TimeTradeInvitationTriggerHandler.cls"
+			],
+			[
+				"utilclass",
+				"src\\classes\\UtilClass.cls"
+			],
+			[
+				"trg_",
+				"src\\triggers\\Trg_Event1.trigger"
+			],
+			[
+				"users",
+				"src\\classes\\UsersWrapper_Test.cls"
+			],
+			[
+				"meetingstatus",
+				"src\\pages\\MeetingStatus.page"
+			],
+			[
+				"webexhelper",
+				"src\\classes\\WebExHelper.cls"
+			],
+			[
+				"meeting",
+				"src\\pages\\MeetingStatus.page"
+			],
+			[
+				"zoomhelper",
+				"src\\classes\\ZoomHelper.cls"
+			],
+			[
+				"emailtemplatemergeutil",
+				"src\\classes\\EmailTemplateMergeUtil.cls"
+			],
+			[
+				"accessjsongenerator",
+				"src\\classes\\AccessJSONGenerator.cls"
+			],
+			[
+				"zoom",
+				"src\\classes\\ZoomHelper.cls"
+			],
+			[
+				"webser",
+				"src\\classes\\WebServiceMockImpl.cls"
+			],
+			[
+				"salesfo",
+				"src\\classes\\SalesforceCalendarSyncHelper.cls"
+			],
+			[
+				"salesf",
+				"src\\classes\\SalesforceCalendarSyncHelper.cls"
+			],
+			[
+				"web",
+				"src\\classes\\WebServiceMockImpl.cls"
+			],
+			[
+				"createinv",
+				"src\\classes\\CreateInvitationAction.cls"
+			],
+			[
+				"email",
+				"src\\classes\\EmailTemplateMergeUtil.cls"
+			],
+			[
+				"utilc",
+				"src\\classes\\UtilClass.cls"
+			],
+			[
+				"createin",
+				"src\\classes\\CreateInvitationAction.cls"
+			],
+			[
+				"createinvitationactiontest",
+				"src\\classes\\CreateInvitationActionTest.cls"
+			],
+			[
+				"ttconfigurationservices",
+				"src\\classes\\TTConfigurationServices.cls"
+			],
+			[
+				"ttconfigurationws",
+				"src\\classes\\TTConfigurationWS.cls"
+			],
+			[
+				"test_trg",
+				"src\\classes\\Test_trg_Event.cls"
+			],
+			[
+				"test_ctrl_",
+				"src\\classes\\Test_Ctrl_CreateMeetingInvitation1.cls"
+			],
+			[
+				"sync",
+				"src\\classes\\SalesforceCalendarSyncHelper.cls"
+			],
+			[
+				"gotomeetin",
+				"src\\classes\\GoToMeetingHelper.cls"
+			],
+			[
+				"test_trg_eve",
+				"src\\classes\\Test_trg_Event.cls"
+			],
+			[
+				"ctrl_c",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"creat",
+				"src\\classes\\CreateInvitationAction.cls"
+			],
+			[
+				"trg_event",
+				"src\\triggers\\Trg_Event1.trigger"
+			],
+			[
+				"ctrl_createtime",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls-meta.xml"
+			],
+			[
+				"createtime",
+				"src\\pages\\CreateTimeTradeInvitationNew.page"
+			],
+			[
+				"timetrade",
+				"src\\classes\\TimeTradeCustomerAttendeeTriggerHandler.cls"
+			],
+			[
+				"ctrl_cli",
+				"src\\classes\\Ctrl_ClickToSchedule.cls"
+			],
+			[
+				"trg_event1",
+				"src\\triggers\\Trg_Event1.trigger"
+			],
+			[
+				"",
+				"src\\classes\\UtilClass.cls"
+			],
+			[
+				"clicktosc",
+				"src\\pages\\ClickToSchedule.page"
+			],
+			[
+				"trg_timetradeinvitation",
+				"src\\triggers\\Trg_TimeTradeInvitation.trigger"
+			],
+			[
+				"trigger",
+				"src\\triggers\\Trg_TimeTradeCustomerAttendee.trigger"
+			],
+			[
+				"utilcla",
+				"src\\classes\\UtilClass.cls"
+			],
+			[
+				"trg_even",
+				"src\\triggers\\Trg_Event1.trigger"
+			],
+			[
+				"ctrl_cre",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls"
+			],
+			[
+				"zo",
+				"src\\classes\\ZoomHelper.cls"
+			],
+			[
+				"webex",
+				"src\\classes\\WebExHelper.cls"
+			],
+			[
+				"trg",
+				"src\\triggers\\Trg_Event1.trigger"
+			],
+			[
+				"acce",
+				"src\\classes\\AccessJSONGenerator.cls"
+			],
+			[
+				"testdatadump",
+				"src\\classes\\testDataDump.cls"
+			],
+			[
+				"zoo",
+				"src\\classes\\ZoomHelper.cls"
+			],
+			[
+				"gotom",
+				"src\\classes\\GoToMeetingHelper.cls"
+			],
+			[
+				"we",
+				"src\\classes\\WebExHelper.cls"
+			],
+			[
+				"test_tr",
+				"src\\classes\\Test_trg_Event.cls"
+			],
+			[
+				"createtimet",
+				"src\\pages\\CreateTimeTradeInvitationNew.page"
+			],
+			[
+				"createtim",
+				"src\\classes\\Ctrl_CreateMeetingInvitation.cls-meta.xml"
+			],
+			[
+				"zoomhe",
+				"src\\classes\\ZoomHelper.cls"
+			],
+			[
+				"json",
+				"src\\classes\\JSONGenerator.cls"
+			],
+			[
+				"asynccallouthelper",
+				"src\\classes\\AsyncCallOutHelper.cls"
+			],
+			[
+				"sales",
+				"src\\classes\\SalesforceCalendarSyncHelper.cls"
+			],
+			[
+				"uti",
+				"src\\classes\\UtilClass.cls"
+			],
+			[
+				"meetinginternalattendeestriggerhandler",
+				"src\\classes\\MeetingInternalAttendeesTriggerHandler.cls"
+			],
+			[
+				"trg_meet",
+				"src\\triggers\\Trg_MeetingInternalAttendees.trigger"
+			],
+			[
+				"async",
+				"src\\classes\\AsyncCallOutHelper.cls"
+			],
+			[
+				"211",
+				"debug\\logs\\2017-05-17 14-05-25.log"
+			],
+			[
+				"1425",
+				"debug\\logs\\2017-05-17 19-42-55.log"
+			],
+			[
+				"timetradeinstallhandler",
+				"src\\classes\\TimeTradeInstallHandler.cls"
+			],
+			[
+				"test_",
+				"src\\classes\\Test_AccountHierarchy_Controller.cls"
+			],
+			[
+				"accounthier",
+				"src\\classes\\AccountHierarchy_Controller.cls"
+			],
+			[
+				"accounthierarchy",
+				"src\\pages\\AccountHierarchy_VF.page"
+			],
+			[
+				"accounthierar",
+				"src\\classes\\AccountHierarchy_Controller.cls"
+			],
+			[
+				"testutils",
+				"src\\classes\\TestUtils.cls"
+			],
+			[
+				"test_account",
+				"src\\classes\\Test_AccountHierarchy_Controller.cls"
+			],
+			[
+				"export",
+				"src\\pages\\ExportToExcel_AccountHierarchy.page"
+			],
+			[
+				"test_crtl",
+				"src\\classes\\Test_Ctrl_AccountHierarchy.cls"
+			],
+			[
+				"account",
+				"src\\classes\\Test_AccountLogic.cls"
+			],
+			[
+				"exporttoexcel_accounthierarchy",
+				"src\\pages\\ExportToExcel_AccountHierarchy.page"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "PRODUCT",
+		"selected_items":
+		[
+			[
+				"PRODUCT",
+				"ProductIssueTriggerHandler"
+			]
+		],
+		"width": 408.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 103.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

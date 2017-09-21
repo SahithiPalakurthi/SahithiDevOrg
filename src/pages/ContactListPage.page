@@ -1,0 +1,20 @@
+<apex:page sidebar="false" standardController="Account" extensions="ConsolidatedContactListController">
+     <apex:form >
+        <apex:pageBlock >
+            <apex:pageBlockButtons >
+                <apex:commandButton value="Consolidate" action="{!consolidate}" rerender="table"/>
+                
+            </apex:pageBlockButtons>
+            
+            <apex:pageBlockTable value="{!contactList}" var="contact" id="table">
+                <apex:column >
+                   <apex:inputCheckbox value="{!contact.selected}"/>
+                </apex:column>
+              
+                <apex:column value="{!contact.con.FirstName}" />
+                <apex:column value="{!contact.con.LastName}" />
+                
+            </apex:pageBlockTable>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

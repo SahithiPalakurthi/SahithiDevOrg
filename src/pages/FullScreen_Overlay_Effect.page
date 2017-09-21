@@ -1,0 +1,122 @@
+<!--
+
+Page:              
+@Author:            
+@Created Date:      
+@Description:      
+To create an overlay effect over the Home page of the support site
+
+-->
+
+<!--**************************************************************************************************************** -->
+
+<apex:page sidebar="false" showHeader="false">
+
+<!--link rel="stylesheet" href="/resource/OverlayCSS"/ -->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"/>
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" ></script>
+
+<!-- apex:includeScript value="{!$Resource.OverlayJS}"/ -->
+ 
+ <style>
+ /* The Overlay (background) */
+.overlay {
+	display:visible;
+    height: 100%;
+    width : 100%;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0, 0.9); /* Black w/opacity as 0.9*/
+    transition: 1.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+   /* Position the content inside the overlay */
+.overlay-content {
+    position: relative;
+    margin-top:15%;
+    width: 100%; /* 100% width */
+    text-align:center; /* Centered text/links */
+}
+
+.overlay-contentimage {
+      display: inline-block;
+ 	  }
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .closebtn {
+        font-size: 40px !important;
+        top: 15px;
+        right: 35px;
+    }
+}
+	
+     
+</style>
+ 
+ 
+    <div class="overlay" id="myNav">
+         <div class="overlay-content">
+            <div class="overlay-contentimage" style="float:left; margin-left:20%;"> 
+                <a href="javascript:closeNav()">
+                	<img id="homeusericon"  src="{!URLFOR($Resource.Images,'/1.png')}" width="135.5" height="149" onmouseover="hover(this);" onmouseout="unhover(this);" />
+            	</a>
+            </div>
+            <div class="overlay-contentimage"  style="float:center; margin-left:2.5%; margin-right:2.5%;" >
+                <a href="javascript:closeNav()">
+            	    <img src="{!URLFOR($Resource.Images,'/2.png')}" id="enterpriseusericon" width="199" height="152" onmouseover="hover(this);" onmouseout="unhover(this);" />
+                </a>
+            </div>
+            <div class="overlay-contentimage" style="float:right; margin-right:20%;">
+				<a href="javascript:closeNav()">
+            		<img id="enterpriseadminicon" src="{!URLFOR($Resource.Images,'/3.png')}" width="219" height="154" onmouseover="hover(this);" onmouseout="unhover(this);"/>
+                </a>
+            </div>
+       </div>
+     </div>
+  
+ 
+    <script>
+       
+
+ /* Close when someone clicks on the "x" symbol inside the overlay */
+ function closeNav() {
+    document.getElementById("myNav").style.width = "0%";
+     window.location = "#";
+     $('#homeusericon').hide();
+     $('#enterpriseusericon').hide();
+     $('#enterpriseadminicon').hide();
+    }
+	
+	function hover(element) 
+    {
+        console.log(element.id);
+    	if(element.id=='homeusericon')
+     		element.setAttribute('src', "{!URLFOR($Resource.onhoverimages,'/onhoverimages/homeuseronhover.png')}");
+        else if(element.id=='enterpriseusericon')
+            element.setAttribute('src', "{!URLFOR($Resource.onhoverimages,'/onhoverimages/enterpriseuseronhover.png')}");
+        else if(element.id=='enterpriseadminicon')
+            element.setAttribute('src', "{!URLFOR($Resource.onhoverimages,'/onhoverimages/enterpriseadminonhover.png')}");
+       	
+    }
+	function unhover(element) 
+    {
+        if(element.id=='homeusericon')
+            element.setAttribute('src', '{!URLFOR($Resource.Images,'/1.png')}');
+    	else if(element.id=='enterpriseusericon')
+            element.setAttribute('src', '{!URLFOR($Resource.Images,'/2.png')}');
+    	else if(element.id=='enterpriseadminicon')
+            element.setAttribute('src', '{!URLFOR($Resource.Images,'/3.png')}');
+    }   
+		
+		
+    </script>
+  
+</apex:page>
